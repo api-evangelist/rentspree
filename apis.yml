@@ -1,0 +1,111 @@
+aid: rentspree
+name: RentSpree
+description: >-
+  RentSpree is a Los Angeles-headquartered rental real estate technology
+  platform that streamlines the long-tail rental transaction for real estate
+  agents, landlords, property managers, and renters. Its consumer-facing
+  product suite covers online rental applications, TransUnion-powered tenant
+  screening (credit, background, eviction, and income verification), e-sign
+  and lease workflows, ACH/card rent payments, AI-assisted listing pages and
+  syndication, rent estimate, and renters insurance. RentSpree positions
+  itself as the rental layer for the MLS and brokerage ecosystem and has
+  built named integrations with Multiple Listing Services (Bright MLS,
+  CRMLS, Beaches MLS, CJMLS, Florida Realtors) and PropTech partners
+  (SkySlope, Lone Wolf, ZipLogix, C.A.R. OnlineEd). It also runs an
+  Enterprise API Integration program for MLSs, associations, brokerages,
+  and PropTech vendors that want to embed rental application intake and
+  tenant screening into their own platforms — documentation is not
+  publicly published; partners are onboarded through a sales/integration
+  process with implementation quoted at as little as three weeks. There
+  is no self-serve developer portal, no public OpenAPI specification, and
+  no public SDK or CLI; the RentSpree GitHub org is effectively empty
+  (only a .github org-defaults repo). RentSpree is SOC 2 Type II certified
+  and reports more than four million agents, landlords, and renters on
+  the platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Real Estate
+  - Rentals
+  - Rental Applications
+  - Tenant Screening
+  - Credit Check
+  - Background Check
+  - Eviction History
+  - Income Verification
+  - Renters Insurance
+  - Rent Payments
+  - E-Sign
+  - Leasing
+  - Listings
+  - MLS
+  - PropTech
+  - Brokerage
+  - REALTOR Association
+url: https://raw.githubusercontent.com/api-evangelist/rentspree/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.rentspree.com
+  - type: About
+    url: https://www.rentspree.com/about
+  - type: Enterprise
+    url: https://www.rentspree.com/enterprise
+  - type: APIIntegration
+    url: https://www.rentspree.com/enterprise/api-service-integration
+  - type: MLSPartners
+    url: https://www.rentspree.com/enterprise/mls
+  - type: PropTechPartners
+    url: https://www.rentspree.com/enterprise/proptech
+  - type: BrokeragePartners
+    url: https://www.rentspree.com/enterprise/brokerage
+  - type: AssociationPartners
+    url: https://www.rentspree.com/enterprise/realtor-association
+  - type: TenantScreening
+    url: https://www.rentspree.com/tenant-screening
+  - type: RentalApplication
+    url: https://www.rentspree.com/rental-application
+  - type: RentPayments
+    url: https://www.rentspree.com/collect-rent
+  - type: ESign
+    url: https://www.rentspree.com/e-sign
+  - type: Listings
+    url: https://www.rentspree.com/listing-pages
+  - type: RentEstimate
+    url: https://www.rentspree.com/rent-estimate
+  - type: RentersInsurance
+    url: https://www.rentspree.com/renters-insurance
+  - type: Pricing
+    url: https://www.rentspree.com/pricing
+  - type: HelpCenter
+    url: https://support.rentspree.com
+  - type: Blog
+    url: https://www.rentspree.com/blog
+  - type: Security
+    url: https://www.rentspree.com/security
+  - type: TermsOfService
+    url: https://www.rentspree.com/terms-of-service
+  - type: PrivacyPolicy
+    url: https://www.rentspree.com/privacy-policy
+  - type: Careers
+    url: https://www.rentspree.com/careers
+  - type: ContactUs
+    url: https://www.rentspree.com/contact-us
+  - type: GitHub
+    url: https://github.com/rentspree
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/rentspree
+  - type: Twitter
+    url: https://twitter.com/RentSpree
+  - type: Facebook
+    url: https://www.facebook.com/RentSpree
+  - type: YouTube
+    url: https://www.youtube.com/@RentSpree
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
