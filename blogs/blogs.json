@@ -3,19 +3,12 @@
   "feeds": [
     {
       "source": "https://www.rentspree.com/blog",
-      "feed_url": "https://www.rentspree.com/blog",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://support.rentspree.com",
-      "feed_url": "https://support.rentspree.com",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:06:16Z",
+  "agent_pulled": "2026-06-27"
 }
