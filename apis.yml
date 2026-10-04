@@ -49,7 +49,7 @@ position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rentspree.png
 tags:
-  - Real-Estate
+  - Real Estate
   - Rentals
   - Rental Applications
   - Tenant Screening
@@ -84,6 +84,7 @@ tags_raw:
   - PropTech
   - Brokerage
   - REALTOR Association
+  - Real-Estate
 url: https://raw.githubusercontent.com/api-evangelist/rentspree/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
